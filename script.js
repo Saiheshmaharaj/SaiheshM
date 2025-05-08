@@ -1,6 +1,6 @@
 // Typing effect in hero section
 const typingText = document.querySelector('.typing');
-const words = ['Web Developer', 'XR Developer', 'Human Being'];
+const words = ['Lead XR Developer', 'Lead Designer', 'Team Lead'];
 let wordIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
